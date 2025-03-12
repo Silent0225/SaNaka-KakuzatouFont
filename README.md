@@ -25,5 +25,5 @@
 
 　點擊右側邊的「Releases」按鈕，選擇最新版下載。
 
-　其中，N版本（Normal）是正常顯示各種漢字的普通版本。S版本（Special）是像[SaKura-SandoittiFont] (https://github.com/Silent0225/SaKura-SandoittiFont) 那樣盡量以以日本常見寫法的字圖來顯示很多繁體字和簡體字的特別版本。
+　其中，N版本（Normal）是正常顯示各種漢字的普通版本。S版本（Special）是像[SaKura-SandoittiFont](https://github.com/Silent0225/SaKura-SandoittiFont) 那樣盡量以以日本常見寫法的字圖來顯示很多繁體字和簡體字的特別版本。
  
