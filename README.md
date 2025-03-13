@@ -2,8 +2,7 @@
 
 　這個字體是源自於Unhinted版本的SarasaMonoJ-SemiBold ([Sarasa-Gothic](https://github.com/be5invis/Sarasa-Gothic)) 的派生字體。
 
-
- 　　
+　　
 
 ## 和SarasaMonoJ-SemiBold之間的差異？
 
@@ -15,13 +14,13 @@
 
 　　
 
- ## 有哪些字被更換成了SarasaMonoCL-SemiBold的字圖？
+## 有哪些字被更換成了SarasaMonoCL-SemiBold的字圖？
 
  　常用漢字、人名用漢字、漢字検定之外的常用繁體字、簡體字……等漢字的字圖都被我替換了。
 
 　　
- 
- ## 下載字體
+
+## 下載字體
 
 　點擊右側邊的「Releases」按鈕，選擇最新版下載。
 
