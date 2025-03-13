@@ -3,7 +3,7 @@
 　這個字體是源自於Unhinted版本的SarasaMonoJ-SemiBold ([Sarasa-Gothic](https://github.com/be5invis/Sarasa-Gothic)) 的派生字體。
 
 
- 　
+ 　　
 
 ## 和SarasaMonoJ-SemiBold之間的差異？
 
@@ -13,13 +13,13 @@
 
 　SaNaka-KakuzatouFont是以SarasaMonoJ-SemiBold為基底改作，混合了一些來自SarasaMonoCL-SemiBold的字圖，盡量以日本新字体、拡張新字体的寫法那樣部分偏向印刷體的風格來顯示文字的字體。
 
-
+　　
 
  ## 有哪些字被更換成了SarasaMonoCL-SemiBold的字圖？
 
  　常用漢字、人名用漢字、漢字検定之外的常用繁體字、簡體字……等漢字的字圖都被我替換了。
 
-
+　　
  
  ## 下載字體
 
