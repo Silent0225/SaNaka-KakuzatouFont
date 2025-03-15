@@ -16,6 +16,17 @@
 
 　　
 
+（用SarasaMonoJ-SemiBold來顯示的範例：
+![](https://i.imgur.com/borYAKi.png)
+
+　用SarasaMonoCL-SemiBold來顯示的範例：
+![](https://i.imgur.com/10NLIMi.png)
+
+　用SaNaka-KakuzatouFont_N來顯示的範例：
+![](https://i.imgur.com/9TjFar2.png)
+
+　　
+
 ## 有哪些字的字圖被更換成了SarasaMonoCL-SemiBold的字圖？
 
 　日本常用漢字、人名用漢字、漢検1級範圍之外的常用繁體字、簡體字……等漢字的字圖，在SarasaMonoCL-SemiBold之中存在著更加貼近日本漢字寫法特徵（部分偏向印刷體的風格）的字圖的話，通常就會被我替換。
