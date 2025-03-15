@@ -2,7 +2,7 @@
 
 　這個字體是源自於Unhinted版本的SarasaMonoJ-SemiBold（[Sarasa-Gothic](https://github.com/be5invis/Sarasa-Gothic)），並混合了一些SarasaMonoCL-SemiBold字圖的派生字體。
 
-![](https://i.imgur.com/nbjQ6Zx.png)
+![](https://i.imgur.com/P3hWzDF.png)
 
 　　
 
