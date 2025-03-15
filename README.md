@@ -14,16 +14,7 @@
 
 　SaNaka-KakuzatouFont是以SarasaMonoJ-SemiBold為基底改作的。混合了一些來自SarasaMonoCL-SemiBold的字圖，所以某些漢字的字圖是更加貼近日本漢字寫法特徵（部分偏向印刷體的風格）。
 
-　　
-
-（用SarasaMonoJ-SemiBold來顯示的範例：
-![](https://i.imgur.com/borYAKi.png)
-
-　用SarasaMonoCL-SemiBold來顯示的範例：
-![](https://i.imgur.com/10NLIMi.png)
-
-　用SaNaka-KakuzatouFont_N來顯示的範例：
-![](https://i.imgur.com/9TjFar2.png)
+![](https://i.imgur.com/Mo26MfE.png)
 
 　　
 
