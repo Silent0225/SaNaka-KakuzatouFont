@@ -8,7 +8,9 @@
 
 ## 和SarasaMonoJ-SemiBold之間的差異？
 
-　在SarasaMonoJ-SemiBold字體之中，日本常用漢字、人名用漢字、漢検1級範圍之外的部分繁體字和簡體字的字圖是比較沒那麼偏向日本漢字寫法特徵（帶有一點印刷體風格的特徵）的，但我覺得像日本新字体、拡張新字体那樣的日本漢字寫法特徵（部分偏向印刷體的風格）比較好看，所以就以SarasaMonoJ-SemiBold為底，把日本常用漢字、人名用漢字、漢検1級範圍之外的某些常用繁體字、簡體字的字圖用SarasaMonoCL-SemiBold的字圖來替換。改作出1個盡量像日本漢字寫法特徵（部分偏向印刷體的風格）的字體。
+　在SarasaMonoJ-SemiBold字體之中，日本常用漢字、人名用漢字、漢検1級範圍之外的部分繁體字和簡體字的字圖是比較沒那麼偏向日本漢字寫法特徵（帶有一點印刷體風格的特徵）的。
+ 
+　我以SarasaMonoJ-SemiBold為底，把日本常用漢字、人名用漢字、漢検1級範圍之外的某些常用繁體字、簡體字的字圖用SarasaMonoCL-SemiBold的字圖來替換。改作出了1個盡量像日本漢字寫法特徵（部分偏向印刷體的風格）的字體。
 
 　所以，和SarasaMonoJ-SemiBold之間的差異如下。
 
@@ -30,7 +32,7 @@
 
 　點擊右側邊的「Releases」按鈕，選擇最新版下載。
 
-　其中，N（Normal）版本是正常顯示各種漢字的普通版本。S（Special）版本是像[SaKura-SandoittiFont](https://github.com/Silent0225/SaKura-SandoittiFont) 那樣盡量以日本常見寫法的字圖來強制顯示很多繁體字和簡體字的特別版本（譬如說，用『亜』的字圖來顯示『亞』、『亚』）。
+　其中，N（Normal）版本是正常顯示各種漢字的普通版本。S（Special）版本是像[SaKura-SandoittiFont](https://github.com/Silent0225/SaKura-SandoittiFont) 那樣盡量以日本常見寫法的字圖來顯示很多繁體字和简体字的特別版本（譬如說，用『亜』的字圖來顯示『亞』、『亚』）。
 
 　　
 
